@@ -4,10 +4,11 @@ import 'aos/dist/aos.css'
 import Hero from './components/hero/Hero'
 import Skills from './components/skills/Skills';
 import Experience from './components/experience/Experience';
-import Language from './components/language/Language';
 import Projects from './components/projects/Projects';
 import Contact from './components/contact/Contact';
 import Footer from './components/footer/Footer';
+import GroupProjects from './components/GroupProject/GroupProjects';
+import SkillsMatrix from './components/SkillsMatrix/SkillsMatrix';
 
 export default function App() {
   useEffect(()=>{
@@ -20,8 +21,9 @@ export default function App() {
     <Hero /> 
     <Skills />
     <Experience />
-    <Language />
+    <SkillsMatrix/>
     <Projects />
+    <GroupProjects />
     <Contact />
     <Footer />
    </main>

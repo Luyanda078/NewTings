@@ -9,7 +9,7 @@ import image4 from '../../assets/image4.png'
 
 export default function Projects() {
     const listProjects = [
-        {id:1, image:image, title:'Project 1', description:'loersdhsg hgsdgh hgsdh hhsdgd hhhdhsh hsdgsd dgd dgsd hsdgd shdgsdh dhsdgsdg ssd sss ssssssss ssss sssss ss'},
+        {id:1, image:image, title:'Recipe Application', description:'loersdhsg hgsdgh hgsdh hhsdgd hhhdhsh hsdgsd dgd dgsd hsdgd shdgsdh dhsdgsdg ssd sss ssssssss ssss sssss ss'},
         {id:2, image:image2, title:'Project 2', description:'Photo description for project'},
         {id:3, image:image3, title:'Project 3', description:'Photo description for project'},
         {id:4, image:image4, title:'Project 4', description:'Photo description for project'},

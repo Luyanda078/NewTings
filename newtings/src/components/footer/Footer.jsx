@@ -5,8 +5,9 @@ export default function Footer() {
         {name: 'Home', link:'#'},
         {name: 'Skills', link:'#skills'},
         {name: 'Experience', link:'#experience'},
-        {name: 'Language', link:'#language'},
+        {name:'SkillsMatrix', link:'#skills_matrix'},
         {name: 'Projects', link:'#projects'},
+        {name: 'GroupProjects',link:'#group_projects'},
         
     ];
   return (
