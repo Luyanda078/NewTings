@@ -20,6 +20,10 @@ export default function Experience() {
             <p className='mb-8 text-white leading-relaxed '>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis voluptate soluta, inventore veritatis quo odio repellat ad atque veniam aspernatur consectetur ipsum quis repellendus necessitatibus, ipsam nulla dolor id laudantium!</p>
             <h2 className='title-font font-bold text-white sm:text-2xl '>2024 :</h2>
             <p className='mb-8 text-white leading-relaxed '>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis voluptate soluta, inventore veritatis quo odio repellat ad atque veniam aspernatur consectetur ipsum quis repellendus necessitatibus, ipsam nulla dolor id laudantium!</p>
+            <h2 className='title-font font-bold text-white sm:text-2xl '>2024 :</h2>
+            <p className='mb-8 text-white leading-relaxed '>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis voluptate soluta, inventore veritatis quo odio repellat ad atque veniam aspernatur consectetur ipsum quis repellendus necessitatibus, ipsam nulla dolor id laudantium!</p>
+            <h2 className='title-font font-bold text-white sm:text-2xl '>2024 :</h2>
+            <p className='mb-8 text-white leading-relaxed '>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis voluptate soluta, inventore veritatis quo odio repellat ad atque veniam aspernatur consectetur ipsum quis repellendus necessitatibus, ipsam nulla dolor id laudantium!</p>
         </div>
         </div>
     </section>

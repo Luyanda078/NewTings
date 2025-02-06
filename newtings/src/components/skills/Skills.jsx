@@ -7,6 +7,7 @@ import laravel from '../../assets/laravel.png'
 import react from '../../assets/react.png'
 import nodejs from '../../assets/nodejs.png'
 import firebase from '../../assets/firebase.png'
+import expoo from  '../../assets/expooo.png'
 
 export default function Skills() {
   return (
@@ -51,6 +52,9 @@ export default function Skills() {
                 </li>
                 <li className='lg:w-1/3 mb-4 w-1/2'>
                     <img src={firebase} alt="" className='rounded-full w-24 h-24 object-cover'/>
+                </li>
+                  <li className='lg:w-1/3 mb-4 w-1/2'>
+                    <img src={expoo} alt=""className='rounded-full w-24 h-24 object-cover'/>
                 </li>
             </nav>
             </div>
