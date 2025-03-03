@@ -16,14 +16,64 @@ export default function Experience() {
             </div>
         <div data-aos='fade-left' data-aos-delay='400' className='lg:flex-grow md:w-1/2 lg:pl-8 md:pl-8 flex flex-col md:items-start md:text-left items-center text-center '>
             <h1 className='title-font sm:text-4xl text-3xl mb-4 font-medium text-orange-500 '>Experience</h1>
-            <h2 className='title-font font-bold text-white sm:text-2xl '>2023 :</h2>
-            <p className='mb-8 text-white leading-relaxed '>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis voluptate soluta, inventore veritatis quo odio repellat ad atque veniam aspernatur consectetur ipsum quis repellendus necessitatibus, ipsam nulla dolor id laudantium!</p>
-            <h2 className='title-font font-bold text-white sm:text-2xl '>2024 :</h2>
-            <p className='mb-8 text-white leading-relaxed '>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis voluptate soluta, inventore veritatis quo odio repellat ad atque veniam aspernatur consectetur ipsum quis repellendus necessitatibus, ipsam nulla dolor id laudantium!</p>
-            <h2 className='title-font font-bold text-white sm:text-2xl '>2024 :</h2>
-            <p className='mb-8 text-white leading-relaxed '>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis voluptate soluta, inventore veritatis quo odio repellat ad atque veniam aspernatur consectetur ipsum quis repellendus necessitatibus, ipsam nulla dolor id laudantium!</p>
-            <h2 className='title-font font-bold text-white sm:text-2xl '>2024 :</h2>
-            <p className='mb-8 text-white leading-relaxed '>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis voluptate soluta, inventore veritatis quo odio repellat ad atque veniam aspernatur consectetur ipsum quis repellendus necessitatibus, ipsam nulla dolor id laudantium!</p>
+            
+
+              {/*CodeTribe info*/}
+            <h2 className="title-font font-bold sm:text-2xl text-white">
+              CodeTribe Solutions Develper Trainee
+            </h2>
+            <span className="font-semibold text-white"> mLab Southern Africa</span>
+
+            <p className="leading-relaxed text-white">
+              <span className="font-semibold">
+                Jul 2024 - Present
+              </span>
+              <br />
+              <span className="font-semibold">Job Description: </span>
+            
+              Collaborate on defining and developing mobile and web solutions while learning application development.
+              
+            </p>
+            <br></br>
+
+            {/*AfricaLearn info*/}
+            <h2 className="title-font font-bold sm:text-2xl text-white">
+            Microsoft Cloud Trainee
+            </h2>
+            <span className="font-semibold text-white"> Africalearn (Afrikka Tikkun) | Hybrid Training Program</span>
+
+            <p className="leading-relaxed text-white">
+              <span className="font-semibold">
+              Jun 2024 - Nov 2024
+              </span>
+              <br />
+              <span className="font-semibold">Description: </span>
+            
+              I completed a structured training program at Africalearn under Afrikka Tikkun, an accredited institution providing industry-aligned Microsoft certification training.
+              
+            </p>
+            <br></br>
+            
+            <br></br>
+            <h2 className="title-font font-bold sm:text-2xl text-white">
+            CodeTribe Tribe Academy
+            </h2>
+            <span className="font-semibold text-white"> mLab Southern Africa </span>
+
+            <p className="leading-relaxed text-white">
+              <span className="font-semibold">
+               April 2024 - May 2024
+              </span>
+              <br />
+              <span className="font-semibold">Job Description: </span>
+            
+              Web development bootcamp at the CodeTribe Academy hosted by MLab. Programme provided introduction to Web development, specifically focusing on HTML, CSS, and JavaScript.
+              
+            </p>
+            <br></br>
+            
+    
+           
         </div>
         </div>
     </section>

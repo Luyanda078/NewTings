@@ -20,7 +20,7 @@ export default function Education() {
           data-aos-delay="400"
           className="relative lg:max-w-lg lg:w-full md:w-1/2 w-5/6 md:mb-0"
         >
-          <div className="md:h-[450px] h-[400px] md:w-[300px] w-[300px] md:right-36 bg-gradient-to-r from-orange-600 via-yellow-500 to-red-400 absolute rounded-md transform rotate-3 -top-8 shadow-[0_0_40px_rgba(225,165,0,0.7)] z-0"></div>
+          <div className="md:h-[450px] h-[400px] md:w-[300px] w-[300px] md:right-36 bg-gradient-to-r from-orange-600 via-blue-500 to-red-400 absolute rounded-md transform rotate-3 -top-8 shadow-[0_0_40px_rgba(225,165,0,0.7)] z-0"></div>
           <img
             src={education2}
             className="object-cover md:w-[300px] md:h-[450px] object-center rounded relative z-10"
