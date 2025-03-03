@@ -9,6 +9,7 @@ import Contact from './components/contact/Contact';
 import Footer from './components/footer/Footer';
 import GroupProjects from './components/GroupProject/GroupProjects';
 import SkillsMatrix from './components/SkillsMatrix/SkillsMatrix';
+import Education from './components/education/education';
 
 export default function App() {
   useEffect(()=>{
@@ -20,6 +21,7 @@ export default function App() {
    <main className='bg-[#0d182e]'>
     <Hero /> 
     <Skills />
+    <Education/>
     <Experience />
     <SkillsMatrix/>
     <Projects />
