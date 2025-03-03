@@ -95,7 +95,7 @@ export default function SkillsMatrix() {
 
         {/* Assessments Section */}
         <div>
-          <h2 className="text-4xl font-semibold text-orange-500 mb-8">Assessments</h2>
+          <section id="assessments">  <h2 className= "text-4xl font-semibold text-orange-500 mb-8">Assessments</h2>
           <table className="table-auto w-full border-collapse border border-gray-700">
             <thead>
               <tr className="bg-gray-800">
@@ -115,7 +115,8 @@ export default function SkillsMatrix() {
                 </tr>
               ))}
             </tbody>
-          </table>
+          </table></section>
+        
         </div>
       </div>
     </section>

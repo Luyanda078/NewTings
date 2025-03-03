@@ -4,7 +4,7 @@ import education2 from "../../assets/education2.png";
 export default function Education() {
   return (
     <section
-      id="experience"
+      id="education"
       className="relative overflow-hidden flex flex-col text-gray-600 body-font"
     >
       {/* Background Gradient Effects */}

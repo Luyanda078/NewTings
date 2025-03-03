@@ -4,11 +4,12 @@ export default function Navbar() {
     const listNavbar = [
         {name: 'Home', link:'#home'},
         {name: 'Skills', link:'#skills'},
+        {name: 'Education', link:'#education'},
         {name: 'Experience', link:'#experience'},
         {name: 'Assesments', link:'#assessments'},
-        {name:'SkillsMatrix', link:'#skills_matrix'},
+        {name:'Skills & Matrix', link:'#skills-matrix'},
         {name: 'Projects', link:'#projects'},
-        {name: 'GroupProjects', link:'#group_projects'},
+        {name: 'Group Projects', link:'#group_projects'},
     ];
   return (
     <header data-aos='fade-up' className='text-gray-600 body-font z-10'>
