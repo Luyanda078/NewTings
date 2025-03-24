@@ -10,6 +10,8 @@ import Footer from './components/footer/Footer';
 import GroupProjects from './components/GroupProject/GroupProjects';
 import SkillsMatrix from './components/SkillsMatrix/SkillsMatrix';
 import Education from './components/education/education';
+import ScrollToTop from './components/scrollbutton/scrollbutton';
+
 
 export default function App() {
   useEffect(()=>{
@@ -27,6 +29,7 @@ export default function App() {
     <Projects />
     <GroupProjects />
     <Contact />
+    <ScrollToTop/>
     <Footer />
    </main>
   )

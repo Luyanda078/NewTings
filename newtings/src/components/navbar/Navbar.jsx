@@ -9,7 +9,7 @@ export default function Navbar() {
         {name: 'Assesments', link:'#assessments'},
         {name:'Skills & Matrix', link:'#skills-matrix'},
         {name: 'Projects', link:'#projects'},
-        {name: 'Group Projects', link:'#group_projects'},
+        {name: 'Group Projects', link:'#groupprojects'},
     ];
   return (
     <header data-aos='fade-up' className='text-gray-600 body-font z-10'>
